@@ -100,7 +100,7 @@ $lang[$langid] = array(
   "whoapply-d" => "You are committed to actively using Live Blog for your
     project and have already allocated human and
     technical resources to produce content to feed the
-    (blog)s.",
+    blog(s).",
   "whoapply-e" => "You are willing to share your Live Blog experience
     with us. We are interested in telling your story and sharing your
     testimonial on how live reporting benefits your work.",
